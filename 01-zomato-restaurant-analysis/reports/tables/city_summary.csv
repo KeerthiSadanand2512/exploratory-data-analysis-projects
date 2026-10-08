@@ -1,0 +1,142 @@
+country,city,restaurants,rated_restaurants,mean_rating,delivery_pct
+India,New Delhi,5473,4048,3.2973814229249143,27.20628540105975
+India,Gurgaon,1118,890,3.330674157303364,38.014311270125226
+India,Noida,1080,696,3.1596264367816076,33.7037037037037
+India,Faridabad,251,151,3.103311258278148,13.944223107569721
+India,Ghaziabad,25,23,3.1000000000000005,40.0
+India,Ahmedabad,21,21,4.161904761904762,52.38095238095238
+India,Amritsar,21,21,3.6857142857142855,0.0
+India,Bhubaneshwar,21,21,3.9809523809523815,0.0
+India,Guwahati,21,21,4.19047619047619,0.0
+India,Lucknow,21,21,4.1952380952380945,0.0
+Brazil,Brasí_lia,20,19,3.6789473684210527,0.0
+Brazil,Rio de Janeiro,20,19,4.489473684210526,0.0
+Brazil,Sí£o Paulo,20,17,4.152941176470588,0.0
+India,Agra,20,20,3.965,0.0
+India,Allahabad,20,20,3.3949999999999996,0.0
+India,Aurangabad,20,20,3.375,0.0
+India,Bangalore,20,20,4.375,35.0
+India,Bhopal,20,20,3.9499999999999993,0.0
+India,Chennai,20,20,4.3149999999999995,65.0
+India,Coimbatore,20,20,4.135,35.0
+India,Dehradun,20,20,4.05,0.0
+India,Goa,20,20,4.245,0.0
+India,Indore,20,20,3.9699999999999998,0.0
+India,Jaipur,20,20,4.13,50.0
+India,Kanpur,20,20,3.815,0.0
+India,Kochi,20,20,4.08,25.0
+India,Kolkata,20,20,4.255,40.0
+India,Ludhiana,20,20,3.9800000000000004,0.0
+India,Mangalore,20,20,3.745,0.0
+India,Mumbai,20,20,4.085000000000001,35.0
+India,Mysore,20,20,3.6950000000000003,0.0
+India,Nagpur,20,20,3.9650000000000007,50.0
+India,Nashik,20,20,3.5199999999999996,0.0
+India,Patna,20,20,3.4549999999999996,0.0
+India,Puducherry,20,20,3.7300000000000004,0.0
+India,Pune,20,20,4.220000000000001,35.0
+India,Ranchi,20,20,3.4550000000000005,0.0
+India,Surat,20,20,3.9349999999999996,0.0
+India,Vadodara,20,20,4.0249999999999995,0.0
+India,Varanasi,20,20,3.5100000000000002,0.0
+India,Vizag,20,20,4.004999999999999,0.0
+New Zealand,Auckland,20,20,4.275,0.0
+New Zealand,Wellington City,20,20,4.249999999999999,0.0
+Qatar,Doha,20,20,4.0600000000000005,0.0
+Singapore,Singapore,20,20,3.575,0.0
+South Africa,Cape Town,20,20,4.109999999999999,0.0
+South Africa,Pretoria,20,20,4.1899999999999995,0.0
+Sri Lanka,Colombo,20,20,3.8699999999999997,0.0
+Turkey,Ankara,20,20,4.3050000000000015,0.0
+UAE,Abu Dhabi,20,20,4.299999999999999,55.0
+UAE,Dubai,20,20,4.37,30.0
+UAE,Sharjah,20,20,4.029999999999999,55.0
+United Kingdom,Birmingham,20,19,3.8736842105263154,0.0
+United Kingdom,Edinburgh,20,20,4.09,0.0
+United Kingdom,London,20,20,4.535000000000001,0.0
+United Kingdom,Manchester,20,20,4.045,0.0
+United States,Albany,20,20,3.5549999999999997,0.0
+United States,Athens,20,20,4.2,0.0
+United States,Augusta,20,20,4.13,0.0
+United States,Boise,20,20,4.260000000000001,0.0
+United States,Cedar Rapids/Iowa City,20,20,4.164999999999999,0.0
+United States,Columbus,20,20,4.029999999999999,0.0
+United States,Dalton,20,20,4.11,0.0
+United States,Davenport,20,18,4.127777777777778,0.0
+United States,Des Moines,20,20,4.235,0.0
+United States,Dubuque,20,20,3.535,0.0
+United States,Gainesville,20,20,4.034999999999999,0.0
+United States,Macon,20,20,4.115,0.0
+United States,Orlando,20,20,4.475,0.0
+United States,Pensacola,20,20,4.200000000000001,0.0
+United States,Pocatello,20,19,3.668421052631579,0.0
+United States,Rest of Hawaii,20,20,4.410000000000001,0.0
+United States,Savannah,20,20,4.154999999999999,0.0
+United States,Sioux City,20,20,3.7650000000000006,0.0
+United States,Tampa Bay,20,20,4.41,0.0
+United States,Valdosta,20,20,3.715,0.0
+United States,Waterloo,20,20,3.650000000000001,0.0
+India,Chandigarh,18,18,4.050000000000001,33.333333333333336
+India,Hyderabad,18,18,4.344444444444445,38.888888888888886
+Indonesia,Jakarta,16,16,4.35625,0.0
+Turkey,ÛÁstanbul,14,14,4.292857142857143,0.0
+South Africa,Sandton,11,11,4.3,0.0
+South Africa,Johannesburg,6,6,4.2,0.0
+Philippines,Mandaluyong City,4,4,4.625,0.0
+Philippines,Taguig City,4,4,4.525,0.0
+Philippines,Pasay City,3,3,4.366666666666667,0.0
+Philippines,Pasig City,3,3,4.633333333333334,0.0
+Australia,Hepburn Springs,2,2,3.8,0.0
+India,Secunderabad,2,2,4.5,50.0
+Indonesia,Bogor,2,2,3.85,0.0
+Indonesia,Tangerang,2,2,4.300000000000001,0.0
+Philippines,Makati City,2,2,4.65,0.0
+Philippines,San Juan City,2,2,4.25,0.0
+Philippines,Santa Rosa,2,2,3.8,0.0
+South Africa,Inner City,2,2,4.9,0.0
+Australia,Armidale,1,1,3.5,0.0
+Australia,Balingup,1,1,3.2,0.0
+Australia,Beechworth,1,1,4.6,0.0
+Australia,Dicky Beach,1,1,3.6,0.0
+Australia,East Ballina,1,1,4.1,0.0
+Australia,Flaxton,1,1,3.5,0.0
+Australia,Forrest,1,1,3.7,0.0
+Australia,Huskisson,1,1,4.1,0.0
+Australia,Inverloch,1,1,3.7,0.0
+Australia,Lakes Entrance,1,1,3.8,0.0
+Australia,Lorn,1,1,3.6,0.0
+Australia,Macedon,1,1,3.5,0.0
+Australia,Mayfield,1,1,2.9,0.0
+Australia,Middleton Beach,1,1,3.8,0.0
+Australia,Montville,1,1,2.4,0.0
+Australia,Palm Cove,1,1,4.4,0.0
+Australia,Paynesville,1,1,2.6,0.0
+Australia,Penola,1,1,3.4,0.0
+Australia,Phillip Island,1,1,3.7,0.0
+Australia,Tanunda,1,1,4.4,0.0
+Australia,Trentham East,1,1,4.1,0.0
+Australia,Victor Harbor,1,1,3.6,0.0
+Canada,Chatham-Kent,1,1,3.7,0.0
+Canada,Consort,1,1,3.0,0.0
+Canada,Vineland Station,1,1,4.3,0.0
+Canada,Yorkton,1,1,3.3,0.0
+India,Mohali,1,1,4.3,100.0
+India,Panchkula,1,1,4.2,0.0
+Indonesia,Bandung,1,1,4.2,0.0
+Philippines,Quezon City,1,1,4.8,0.0
+Philippines,Tagaytay City,1,1,4.5,0.0
+South Africa,Randburg,1,1,4.3,0.0
+United States,Clatskanie,1,1,4.3,0.0
+United States,Cochrane,1,1,3.1,0.0
+United States,Fernley,1,1,3.7,0.0
+United States,Lakeview,1,1,3.6,0.0
+United States,Lincoln,1,1,4.5,0.0
+United States,Mc Millan,1,1,2.4,0.0
+United States,Miller,1,1,3.4,0.0
+United States,Monroe,1,1,3.6,0.0
+United States,Ojo Caliente,1,1,3.6,0.0
+United States,Potrero,1,1,3.3,0.0
+United States,Princeton,1,1,4.0,0.0
+United States,Vernonia,1,1,4.3,0.0
+United States,Weirton,1,1,3.9,0.0
+United States,Winchester Bay,1,1,3.2,0.0

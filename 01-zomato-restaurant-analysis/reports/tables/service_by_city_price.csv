@@ -1,0 +1,63 @@
+country,city,price_range,has_table_booking,restaurants,rated_restaurants,mean_rating
+Brazil,Brasí_lia,4,No,10,10,3.84
+Brazil,Rio de Janeiro,4,No,11,11,4.4818181818181815
+Brazil,Sí£o Paulo,4,No,14,14,4.2142857142857135
+India,Ahmedabad,3,No,11,11,4.127272727272726
+India,Allahabad,3,No,13,13,3.3692307692307684
+India,Amritsar,2,No,11,11,3.6363636363636362
+India,Aurangabad,2,No,15,15,3.3399999999999994
+India,Bhopal,2,No,14,14,3.907142857142856
+India,Bhubaneshwar,2,No,12,12,3.9916666666666667
+India,Coimbatore,2,No,11,11,4.1
+India,Dehradun,3,No,12,12,3.958333333333334
+India,Faridabad,1,No,151,77,3.084415584415584
+India,Faridabad,2,No,79,59,3.059322033898305
+India,Ghaziabad,2,No,13,13,3.238461538461538
+India,Goa,4,No,13,13,4.253846153846154
+India,Gurgaon,1,No,453,288,3.1659722222222246
+India,Gurgaon,2,No,406,347,3.2815561959654187
+India,Gurgaon,2,Yes,34,33,3.3848484848484848
+India,Gurgaon,3,No,40,40,3.6
+India,Gurgaon,3,Yes,118,117,3.5905982905982903
+India,Gurgaon,4,No,15,14,3.7571428571428576
+India,Gurgaon,4,Yes,52,51,3.6352941176470583
+India,Guwahati,2,No,10,10,4.220000000000001
+India,Jaipur,3,No,11,11,3.9545454545454546
+India,Kochi,2,No,11,11,4.090909090909092
+India,Lucknow,3,No,10,10,4.15
+India,Ludhiana,3,No,12,12,3.9583333333333326
+India,Mangalore,2,No,10,10,3.71
+India,Mysore,2,No,10,10,3.66
+India,Nashik,3,No,10,10,3.4199999999999995
+India,New Delhi,1,No,3051,1872,3.1929487179487244
+India,New Delhi,2,No,1505,1299,3.2631254811393324
+India,New Delhi,2,Yes,151,139,3.3064748201438854
+India,New Delhi,3,No,160,151,3.6662251655629117
+India,New Delhi,3,Yes,389,376,3.564893617021278
+India,New Delhi,4,No,42,40,3.787499999999999
+India,New Delhi,4,Yes,174,170,3.664705882352942
+India,Noida,1,No,565,286,3.124475524475526
+India,Noida,2,No,372,280,3.1246428571428577
+India,Noida,2,Yes,29,25,3.1319999999999997
+India,Noida,3,No,31,28,3.360714285714285
+India,Noida,3,Yes,62,59,3.4101694915254246
+India,Noida,4,Yes,21,18,3.1666666666666665
+India,Patna,2,No,11,11,3.4272727272727277
+India,Pune,3,Yes,10,10,4.1899999999999995
+India,Surat,3,No,11,11,3.945454545454545
+India,Vizag,2,No,12,12,3.9000000000000004
+Indonesia,Jakarta,3,No,16,16,4.35625
+Qatar,Doha,4,No,13,13,4.123076923076923
+Singapore,Singapore,4,No,14,14,3.55
+South Africa,Pretoria,4,No,14,14,4.249999999999999
+Sri Lanka,Colombo,3,No,11,11,3.790909090909091
+Turkey,Ankara,3,No,12,12,4.325
+United Kingdom,Edinburgh,3,No,10,10,4.0600000000000005
+United States,Albany,1,No,11,11,3.5545454545454542
+United States,Athens,1,No,12,12,4.208333333333333
+United States,Dalton,1,No,13,13,4.153846153846154
+United States,Davenport,2,No,13,11,4.127272727272726
+United States,Des Moines,2,No,10,10,4.220000000000001
+United States,Orlando,3,No,11,11,4.527272727272727
+United States,Pensacola,3,No,10,10,4.159999999999999
+United States,Valdosta,2,No,10,10,3.71

@@ -1,0 +1,16 @@
+country,currency,records_with_positive_cost,median_cost_for_two,p25_cost,p75_cost
+Australia,Dollar($),24,20.0,20.0,22.5
+Brazil,Brazilian Real(R$),60,100.0,70.0,177.5
+Canada,Dollar($),4,25.0,25.0,36.25
+India,Indian Rupees(Rs.),8643,450.0,300.0,700.0
+Indonesia,Indonesian Rupiah(IDR),21,200000.0,165000.0,300000.0
+New Zealand,NewZealand($),40,60.0,50.0,90.0
+Philippines,Botswana Pula(P),22,1150.0,862.5,1725.0
+Qatar,Qatari Rial(QR),20,185.0,107.5,262.5
+Singapore,Dollar($),20,80.0,50.0,277.5
+South Africa,Rand(R),60,340.0,250.0,450.0
+Sri Lanka,Sri Lankan Rupee(LKR),20,2200.0,1725.0,3000.0
+Turkey,Turkish Lira(TL),34,70.0,50.0,97.5
+UAE,Emirati Diram(AED),60,145.0,88.75,235.0
+United Kingdom,Pounds(£),80,40.0,30.0,55.0
+United States,Dollar($),425,25.0,10.0,40.0

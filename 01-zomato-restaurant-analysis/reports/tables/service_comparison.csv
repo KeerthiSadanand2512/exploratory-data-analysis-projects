@@ -1,0 +1,5 @@
+service,available,restaurants,rated_restaurants,mean_rating
+Online delivery,No,7100,5048,3.4674326465927128
+Online delivery,Yes,2451,2355,3.381273885350318
+Table booking,No,8393,6292,3.413970120788298
+Table booking,Yes,1158,1111,3.5875787578757885

@@ -1,0 +1,17 @@
+{
+  "raw_rows": 9551,
+  "clean_rows": 9551,
+  "exact_duplicates_removed": 0,
+  "duplicate_restaurant_ids": 0,
+  "missing_cuisines": 9,
+  "unrated_restaurants": 2148,
+  "zero_cost_records": 18,
+  "zero_coordinate_pairs": 497,
+  "rating_status_disagreements": 0,
+  "countries": 15,
+  "country_city_pairs": 141,
+  "source_sha256": {
+    "zomato.csv": "100f5b85699357666b8e8e7ae57d18c723c47fe2a6b47f59809cbbe9d19d21b2",
+    "Country-Code.xlsx": "c8f2f80c8d54122563037c4ee20593b42fe21f95c19d055fc5e4d6f4c67dba0a"
+  }
+}
