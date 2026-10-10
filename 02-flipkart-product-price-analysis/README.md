@@ -131,17 +131,6 @@ Source fingerprints, quality totals and generated results make the run auditable
 
 ## Add to your EDA GitHub repository
 
-Extract this folder beside your Zomato project:
-
-```text
-exploratory-data-analysis-projects/
-├── 01-zomato-restaurant-analysis/
-└── 02-flipkart-product-price-analysis/
-```
-
-Upload the extracted folder contents, including data, reports and screenshots. Exclude `.venv` and caches through the included `.gitignore`. For Streamlit hosting from the parent repository, select `02-flipkart-product-price-analysis/app.py` as the entry point.
-
-Use Git from the parent repository to include the larger raw CSV and database, rather than dragging individual files into the browser:
 
 ```bash
 git add 02-flipkart-product-price-analysis
@@ -149,8 +138,3 @@ git commit -m "Add Flipkart pricing EDA and Streamlit dashboard"
 git push
 ```
 
-## Source and license
-
-Dataset: [PromptCloudHQ / Flipkart Products on Kaggle](https://www.kaggle.com/datasets/PromptCloudHQ/flipkart-products), 20,000 rows and 15 source columns. The source CSV is included unchanged; the optional downloader can retrieve it again.
-
-Kaggle identifies the dataset as **CC BY-SA 4.0**. Preserve [DATA_LICENSE.md](DATA_LICENSE.md) for the original data and derived outputs. Original project code uses the [MIT license](LICENSE). No affiliation or endorsement by Flipkart or PromptCloud is implied.
