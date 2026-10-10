@@ -177,8 +177,3 @@ When switching projects, run `deactivate`, move into the other project folder, a
 4. Inspect **reports/** for charts, query results and data-quality documentation.
 5. Run **app.py** with Streamlit to explore the data interactively.
 
-## Data sources and responsible interpretation
-
-Sources, provenance and licensing are documented within each project. Flipkart uses the PromptCloud dataset and includes its CC BY-SA 4.0 attribution. Zomato's README records the limitations of the available source provenance and redistribution information. No blanket license is asserted over all datasets in this repository.
-
-These projects are exploratory analyses of historical samples. Observed associations do not establish causation, listing counts do not measure demand or revenue, and findings should be validated with additional data before making operational decisions.
