@@ -1,0 +1,21 @@
+[
+  {
+    "raw_rows":20000,
+    "retained_listings":20000,
+    "duplicates_removed":0,
+    "valid_prices":19922,
+    "invalid_prices":78,
+    "valid_discounts":19922,
+    "invalid_discounts":78,
+    "above_retail":0,
+    "missing_brands":5861,
+    "unknown_categories":0,
+    "rated_listings":1849,
+    "rating_coverage_pct":9.245,
+    "categories":265,
+    "first_crawl":"2015-12-01T06:13:00.000Z",
+    "last_crawl":"2016-06-28T08:45:50.000Z",
+    "median_price":550.0,
+    "median_discount":45.0
+  }
+]

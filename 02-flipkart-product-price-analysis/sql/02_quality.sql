@@ -1,0 +1,17 @@
+SELECT (SELECT count(*) FROM raw_products) AS raw_rows,
+ count(*) AS retained_listings,
+ (SELECT count(*) FROM raw_products) - count(*) AS duplicates_removed,
+ count(*) FILTER (WHERE valid_price) AS valid_prices,
+ count(*) FILTER (WHERE NOT valid_price) AS invalid_prices,
+ count(*) FILTER (WHERE valid_discount) AS valid_discounts,
+ count(*) FILTER (WHERE NOT valid_discount) AS invalid_discounts,
+ count(*) FILTER (WHERE selling_price > retail_price) AS above_retail,
+ count(*) FILTER (WHERE brand = 'Unknown') AS missing_brands,
+ count(*) FILTER (WHERE category = 'Unknown') AS unknown_categories,
+ count(rating) AS rated_listings,
+ 100.0 * count(rating) / count(*) AS rating_coverage_pct,
+ count(DISTINCT category) AS categories,
+ min(crawled_at) AS first_crawl, max(crawled_at) AS last_crawl,
+ median(selling_price) FILTER (WHERE valid_price) AS median_price,
+ median(discount_pct) AS median_discount
+FROM products;

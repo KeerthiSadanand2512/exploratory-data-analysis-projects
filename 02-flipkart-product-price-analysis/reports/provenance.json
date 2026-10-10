@@ -1,0 +1,7 @@
+{
+  "source": "https://www.kaggle.com/datasets/PromptCloudHQ/flipkart-products",
+  "sha256": "56f8f699c9e847356666c2eab3c3ab1244340f6a98ad08e39ea2199ebe993ad1",
+  "filename": "flipkart_com-ecommerce_sample.csv",
+  "duckdb_version": "1.4.1",
+  "raw_rows": 20000
+}
