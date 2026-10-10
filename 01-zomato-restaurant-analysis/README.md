@@ -110,13 +110,7 @@ requirements-lock.txt      Full environment used for verification (macOS/Python 
 
 See [data dictionary](reports/data_dictionary.md), [quality audit](reports/data_quality.json), [verification record](reports/verification.md) and [computed findings](reports/findings.md).
 
-## Source and limitations
 
-Inputs were recovered from the user's existing `01-zomato-restaurant-analysis/data/raw` project. The earlier ChatGPT ZIP was not available in this workspace. This project was rebuilt using the actual local raw files; it does not depend on the previous cleaned CSV or database. Raw input SHA-256 hashes are recorded in the quality audit.
-
-The supplied files contain no verified original download URL, collection date, sampling method or dataset license. No URL, date or ownership claim has been invented. Dataset redistribution rights are unverified; no new license is asserted over third-party data. Check the original data provider's terms before publishing the included data publicly. No public upload or deployment has been performed.
-
-This is a historical, geographically uneven sample. Ratings and votes can reflect selection bias and different review volumes. Votes are not revenue, visits or demand. Currency labels have apparent errors, zero costs may represent missing information, and some strings contain encoding artefacts. No causal effects, market-size estimates, current restaurant recommendations or time trends can be inferred from this snapshot.
 
 ## Publish to GitHub
 
